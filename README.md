@@ -13,9 +13,4 @@ cd ~/Downloads/mono_folder // atau nama folder yang kamu download tadi
 
 atau 
 
-gcc ransom.c -o Mono_tool
-./Mono_tool
-
-atau 
-
 chmod +x Mono_tool
